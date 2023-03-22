@@ -1,4 +1,4 @@
-# visualización-de-redes-WiFi-cercanas
+# Visualización-de-redes-WiFi-cercanas
 
 Este es un repositorio que contiene un código en Python para la visualización de redes WiFi cercanas a través de la biblioteca de subprocesos de Python.
 
